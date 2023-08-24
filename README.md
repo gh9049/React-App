@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+# ToolTip
+
+This is a React-App mainly focued to tool-tip.
+
+Here there are options to set the tooltip for the given five buttons. And the changes can be seen on the live preview of the buttons.
+
+# To know more info about react app:
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
