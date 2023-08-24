@@ -1,6 +1,6 @@
 # ToolTip
 
-This is a React-App mainly focued to tool-tip.
+This is a React-App mainly focued to tool-tip and should be upgraded.
 
 Here there are options to set the tooltip for the given five buttons. And the changes can be seen on the live preview of the buttons.
 
